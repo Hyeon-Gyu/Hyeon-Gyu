@@ -14,4 +14,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=lhg0729)](https://solved.ac/lhg0729)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&text= Talk is cheap. Show me the code-Linus Torvalds&fontSize=30"/>

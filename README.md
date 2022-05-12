@@ -11,7 +11,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/lhg0729)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhg0729)](https://solved.ac/lhg0729)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
